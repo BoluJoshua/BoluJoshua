@@ -4,7 +4,7 @@
 - 💞️ I'm looking to collaborate with individuals and organizations, contribute to open source data projects as I grow. I also love the idea of short-term internships too to display my skills.
 - 📫 You can connect with me on instagram @bolu_joshua let's connect and learn.
   
-- ⚡ Fun fact: I play table tennis well and will try golfing also.
+- ⚡ Fun fact: I play table tennis well and will also try golfing.
 
 <!---
 BoluJoshua/BoluJoshua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
